@@ -1,0 +1,1 @@
+This app is to track your daily calories and macros by customizing the ingredient accordingly.
