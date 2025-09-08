@@ -1,0 +1,7 @@
+# requirements.txt
+
+# FastAPI framework
+fastapi==0.111.0;
+
+# ASGI server for local dev & prod
+uvicorn[standard]==0.30.1;
